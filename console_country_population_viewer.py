@@ -5,7 +5,7 @@
 from openpyxl import load_workbook
 from os import system, name
 
-wb = load_workbook('file.xlsx')
+wb = load_workbook('Countries_Population.xlsx')
 ls = []
 for name in wb.sheetnames:
     name = name.lower()
