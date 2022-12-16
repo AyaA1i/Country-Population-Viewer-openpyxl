@@ -60,7 +60,7 @@ def label_of_choices():
     option1_label = Label(window, text="Option 1: To display the population of each province and the total population of the country: ", bg='black', fg='white', font='none 20 bold')
     option1_label.place(x=5, y=230, anchor='w')
 
-    option2_label = Label(window, text="Option 2: To display the population of each province and the total population of the country: ", bg='black', fg='white', font='none 20 bold')
+    option2_label = Label(window, text="Option 2: To Display the state with the highest population and the one with the lowest population: ", bg='black', fg='white', font='none 20 bold')
     option2_label.place(x=5, y=350, anchor='w')
 
     option1_button = Button(window, text="Option 1", width=15, height=2, command=option1_click)
