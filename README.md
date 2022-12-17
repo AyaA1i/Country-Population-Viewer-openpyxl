@@ -13,4 +13,4 @@ Requested by: *Dr. Mohammed El-Ramly in Structured Programming course (Assingmen
   * ### *Display the state / province / governorate with the highest population and the one with the lowest population*
 ____________________
 * ### _A Screenshot of the Graphical-User-Interface version of the program_
-  ![screenshot.png](screenshot.png)
+![image](https://user-images.githubusercontent.com/102534922/208212568-dbaed538-9a91-4755-bcff-36485478f457.png)
