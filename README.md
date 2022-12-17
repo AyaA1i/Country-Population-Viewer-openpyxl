@@ -11,6 +11,9 @@ Requested by: *Dr. Mohammed El-Ramly in Structured Programming course (Assingmen
   * #### *Choose a country to load its file (or display a message if not available)*
   * #### *Display the population of each state / province / governorate and total population of the country*
   * #### *Display the state / province / governorate with the highest population and the one with the lowest population*
+* #### Program has 2 Version:
+  * ####  Console version -> console_country_population_viewer.py
+  * #### GUI version with Tkninter Library -> gui_country_population_viewer.py  
 ____________________
 * ### _A Screenshot of the Graphical-User-Interface version of the program_
 ![image](https://user-images.githubusercontent.com/102534922/208212568-dbaed538-9a91-4755-bcff-36485478f457.png)
